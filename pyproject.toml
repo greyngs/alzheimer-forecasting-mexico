@@ -8,6 +8,7 @@ dependencies = [
     "dvc[s3]>=3.63.0",
     "matplotlib>=3.10.6",
     "pandas>=2.3.2",
+    "prophet>=1.1.7",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.5",
