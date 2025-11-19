@@ -1,4 +1,0 @@
-[core]
-    remote = alzheimer_s3
-['remote "alzheimer_s3"']
-    url = s3://alzheimer-mexico-2014-2024
